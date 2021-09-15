@@ -92,7 +92,8 @@ li {
 .items span.active,
 .items span:hover {
     color: #fff;
-    background: blue;
+    background: #2196f3;
+    box-shadow: 0 0 10px #d4eb0c, 0 0 10px #d4eb0c, 0 0 10px #d4eb0c;
 }
 
 .gallery .image:hover img {
