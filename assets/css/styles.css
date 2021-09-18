@@ -42,9 +42,23 @@ li {
 
 /* Galeri */
 
+.main-galeri {
+    padding-bottom: 30px;
+}
+
 .judul {
+    margin-bottom: 20px;
     font-weight: bolder;
     text-align: center;
+    color: #ffffff;
+}
+
+.judul h1 {
+    font-size: 25pxpx;
+}
+
+.judul p {
+    font-size: 20px;
 }
 
 .gallery .image img {
